@@ -1,0 +1,13 @@
+name: 111550149-ML
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch
+  - torchvision
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - opencv
