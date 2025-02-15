@@ -1,6 +1,8 @@
 # Machine Learning Homework Repository
 
-This repository contains homework assignments for **NYCU Introduction to Machine Learning** by Professor 林彥宇, covering key concepts such as **Linear Regression, Logistic Regression, Decision Trees, Ensemble Learning, and Deep Learning with CNNs**.
+【 NYCU 2024 fall Semester 】by Professor 林彥宇
+
+This repository contains homework assignments for **NYCU Introduction to Machine Learning** , covering key concepts such as **Linear Regression, Logistic Regression, Decision Trees, Ensemble Learning, and Deep Learning with CNNs**.
 
 ## 📂 Homework Overview
 
